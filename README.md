@@ -133,12 +133,12 @@ project/
 **Step 1: Build the Docker Image**
 Navigate to your project directory in the terminal and run:
 ```
-docker build -t dtffprojectjn .
+docker build -t deezer .
 ```
 **Step 2: Run the Docker Container**
 Run the container and map the ports:
 ```
-docker run -p 8888:8888 dtffprojectjn
+docker run -p 8888:8888 deezer
 ```
 **Step 3: Access the Jupyter Notebook**
 Once the container is running, look for a URL in the terminal output, such as:
