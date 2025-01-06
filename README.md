@@ -92,10 +92,22 @@ Outputs will be stored in the results/ directory.
 **Contributions**
 
 **Author	Contribution**
-Azizbek Asadov - 23-747-041	- Data preprocessing, graph analysis
-Elena Baranauskaite	- 24-718-165 - Community detection, visualizations
-Teodora Nae -	22-748-107 - Genre analysis, influence metrics
-Baran Özgür Taş - 24-744-336 -	Regional comparisons, report writing
+All authors conceived and designed the idea of the project, drafted the proposal and presentation.
+
+
+Elena Baranauskaite	- 24-718-165 found the dataset, preprocessed the data and prepared ready-to-consume files with communities, centralities and genres for easier analysis. Conduced analysis for research questions 1 & 2 and prepared the report sections with visualizations on them.
+
+
+Azizbek Asadov - 23-747-041 did datasets preprocessing (main.ipynb), cleaning and separation due to the region, set up github repo and environment to work on the project, contributed to the research question, "How do users with diverse musical tastes influence network dynamics and cross-community connections?," by formulating the research objective, conducting data analysis, and interpreting the findings, did the analysis of the findings corresponding to the datasets per each selected region (Romania, Hungary, Croatia) and observed centrality effects (betweenness and closeness) and derived implications for each region.\\
+
+
+
+Teodora Nae -	22-748-107 contributed to the analysis of network dynamics and genre diversity across Romania, Hungary and Croatia, especially for research questions 4 and 5. Also, authored the code that facilitates the visualization of correlations between genre diversity and centrality metrics, offering a clearer understanding of the roles played by diverse-taste users and high-degree nodes in bridging and isolating communities. As well as, contributing to the report and presentation. 
+
+
+Baran Özgür Taş - 24-744-336 Conducted analysis for research question 3 and prepared the report section with visualizations. Also authored the conclusion.\\
+All Authors discussed and reached the conclusions. All Authors revised and accepted the final version of this document as well as prepared the presentation.
+
 
 **License**
 
