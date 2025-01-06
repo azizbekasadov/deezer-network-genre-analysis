@@ -113,6 +113,14 @@ All Authors discussed and reached the conclusions. All Authors revised and accep
 
 This project is licensed under the MIT License.
 
+**Contact**
+
+For questions, contributions, or collaborations, please contact:
+Azizbek Asadov – azizbek.asadov@uzh.ch
+
+**DEPRECATED**
+We no longer support Docker for project assembly.
+
 ### DOCKER DEPLOYMENT INSTRUCTIONS
 
 **Prerequisites**
@@ -170,9 +178,3 @@ Ensure all dependencies are listed in requirements.txt.
 Notebook not accessible:
 Confirm Docker Desktop is running.
 Check the port mapping (-p 8888:8888) and browser URL.
-
-**Contact**
-
-For questions, contributions, or collaborations, please contact:
-Azizbek Asadov – azizbek.asadov@uzh.ch
-                      
